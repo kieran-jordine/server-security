@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d603da4c-2fac-402c-8030-f3183c02f89f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Help.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authorization-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authorization-client/src/main/java/com/kyzen/auth_client/AuthClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authorization-client/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authorization-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authorization-server/src/main/java/com/kyzen/auth_server/AuthServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/authorization-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/kyzen/resource_server/ResourceServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="d603da4c-2fac-402c-8030-f3183c02f89f" name="Changes" comment="Authorization Server, Resource Server, and Authorization Client" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,6 +123,19 @@
       <option name="presentableId" value="Default" />
       <updated>1690969716590</updated>
     </task>
+    <task id="LOCAL-00001" summary="Authorization Server, Resource Server, and Authorization Client">
+      <option name="closed" value="true" />
+      <created>1690992052722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690992052722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Authorization Server, Resource Server, and Authorization Client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Authorization Server, Resource Server, and Authorization Client" />
   </component>
 </project>
